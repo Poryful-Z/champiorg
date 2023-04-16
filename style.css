@@ -1,0 +1,44 @@
+.jumbotron {
+	background-image: url('https://cdn.discordapp.com/attachments/265667089732206592/1096998009553830029/onepiece5.jpg');
+	background-size: cover;
+	height: 500px;
+	color: white;
+	text-align: center;
+	padding-top: 150px;
+}
+
+.jumbotron h1 {
+	font-size: 4em;
+    /*
+    -webkit-text-stroke: 2px black;
+    */
+}
+
+.jumbotron .container {
+    background: rgba(0,0,0,0.7);
+    padding: 10px;
+}
+
+.btn-danger {
+	background-color: #e74c3c;
+	border-color: #c0392b;
+}
+
+.btn-danger:hover {
+	background-color: #c0392b;
+	border-color: #c0392b;
+}
+
+.btn-primary {
+	background-color: #3498db;
+	border-color: #2980b9;
+}
+
+.btn-primary:hover {
+	background-color: #2980b9;
+	border-color: #2980b9;
+}
+
+.col-md-4 {
+	margin-bottom: 20px;
+}
