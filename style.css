@@ -1,6 +1,8 @@
 .jumbotron {
-	background-image: url('https://cdn.discordapp.com/attachments/265667089732206592/1096998009553830029/onepiece5.jpg');
-	background-size: cover;
+	background-image: url('images/S1RomanceDawn.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center center;
 	height: 500px;
 	color: white;
 	text-align: center;
